@@ -398,6 +398,12 @@ Final Year Project
 
 ---
 
+
+## Contributors
+
+- Shubham Raj (CSEDS/2022/054)
+- Divyanshu Ranjan (CSEDS/2022/026)
+- Sakshi Priya (CSEDS/2022/051)
 # License
 
 This project is intended for academic and research purposes only.
