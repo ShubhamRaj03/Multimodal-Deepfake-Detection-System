@@ -1,11 +1,5 @@
 # DeepScan: Multimodal Deepfake Detection Using Audio-Visual Fusion Networks
 
-
-# Multimodal Deepfake Detection Using Audio-Visual Fusion Networks
-
-![Home Page](screenshots/Home_Page.png)
-
-A multimodal deepfake detection system leveraging ResNeXt101, EfficientNet-B4, CNN-based audio analysis, and reliability-aware fusion for image, video, and audio deepfake detection.
 ## Overview
 
 DeepScan is a multimodal deepfake detection system designed to identify manipulated content across images, videos, and audio recordings.
