@@ -392,7 +392,7 @@ demo/DEMO_LINKS.md
 
 Shubham Raj
 
-B.Tech in Data Science
+B.Tech in Computer Science and Engineering (Data Science)
 
 Final Year Project
 
