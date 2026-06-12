@@ -15,6 +15,26 @@ The project includes a Flask backend, React frontend, trained deep learning mode
 
 ---
 
+## User Interface Preview
+
+### Home Page
+
+![Home Page](screenshots/Home_Page.png)
+
+### Image Deepfake Detection
+
+![Image Detection](screenshots/Image_Detection.png)
+
+### Audio Deepfake Detection
+
+![Audio Detection](screenshots/Audio_detection.png)
+
+### Video Deepfake Detection
+
+![Video Detection](screenshots/Video_Detection.png)
+
+---
+
 ## Features
 
 ### Image Deepfake Detection
