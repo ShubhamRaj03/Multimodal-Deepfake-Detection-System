@@ -1,0 +1,69 @@
+# =========================
+# Virtual Environments
+# =========================
+backend/venv/
+backend/test_env/
+venv/
+test_env/
+
+# =========================
+# Python Cache
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Environment Variables
+# =========================
+.env
+backend/.env
+
+# =========================
+# Logs
+# =========================
+logs/
+backend/logs/
+*.log
+
+# =========================
+# Uploads
+# =========================
+backend/uploads/
+
+# =========================
+# Model Weights
+# =========================
+weights/
+backend/models/weights/*
+!backend/models/weights/.gitkeep
+
+# =========================
+# Datasets
+# =========================
+datasets/
+
+# =========================
+# Demo Files
+# =========================
+demo/
+
+# =========================
+# Frontend
+# =========================
+Frontend/node_modules/
+Frontend/build/
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+Desktop.ini
